@@ -8,7 +8,6 @@ Venus
 
 Earth
 
-Krypton
 
 Mars
 
@@ -16,6 +15,3 @@ Neptune
 
 
 Saturne
-
-
-Pluto
